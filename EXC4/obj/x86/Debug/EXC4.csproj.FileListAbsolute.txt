@@ -1,0 +1,7 @@
+D:\11V\04.05.2018\EXC4\bin\Debug\EXC4.exe
+D:\11V\04.05.2018\EXC4\bin\Debug\EXC4.pdb
+D:\11V\04.05.2018\EXC4\obj\x86\Debug\EXC4.Form1.resources
+D:\11V\04.05.2018\EXC4\obj\x86\Debug\EXC4.Properties.Resources.resources
+D:\11V\04.05.2018\EXC4\obj\x86\Debug\EXC4.csproj.GenerateResource.Cache
+D:\11V\04.05.2018\EXC4\obj\x86\Debug\EXC4.exe
+D:\11V\04.05.2018\EXC4\obj\x86\Debug\EXC4.pdb
