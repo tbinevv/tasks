@@ -1,0 +1,3 @@
+D:\11V\04.05.2018\EXC912\obj\x86\Debug\EXC912.Form1.resources
+D:\11V\04.05.2018\EXC912\obj\x86\Debug\EXC912.Properties.Resources.resources
+D:\11V\04.05.2018\EXC912\obj\x86\Debug\EXC912.csproj.GenerateResource.Cache
